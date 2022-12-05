@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
-<img align="right" alt="Coding" width="https://img.freepik.com/premium-vector/cute-boy-multitasking-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3973.jpg"
+<img align="right" alt="Coding" width="250" src="https://img.freepik.com/premium-vector/cute-boy-multitasking-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3973.jpg?w=2000"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarm-08&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarm-08" /> </p>
 
